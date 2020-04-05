@@ -1,12 +1,14 @@
+Brakefast:----
 Monday--Idly
 TuesDay--poori
 wednesday--chicken
 
-Lunch 
+Lunch:----
 Monday--veg meal
 
 
-
+Dinner:---
+Monday-- Lite meal
 
 
 ThanksFor the menu
