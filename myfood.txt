@@ -5,7 +5,7 @@ wednesday--chicken
 
 Lunch:----
 Monday--veg meal
-TuesDay---nonvegmeal
+TuesDay---nonveg-meal
 
 
 Dinner:---
